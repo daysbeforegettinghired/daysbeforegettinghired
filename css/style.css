@@ -134,7 +134,7 @@ header {
   padding: 10px 0; }
   .top-bar .social a, .top-bar .search-icon a {
     color: black;
-    padding: 5px; }
+    padding: 15px; }
     .top-bar .social a:hover, .top-bar .search-icon a:hover {
       opacity: .5; }
   .top-bar .social {
