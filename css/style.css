@@ -47,7 +47,7 @@ header {
     background: transparent !important; }
     @media (max-width: 767.98px) {
       header .navbar {
-        background: yellow !important; } }
+        background: #ffff00 !important; } }
     header .navbar .navbar-nav.absolute-right {
       position: absolute;
       right: 0; }
@@ -165,7 +165,7 @@ header {
   padding: 30px;
   position: relative;
   margin-bottom: 30px;
-  background-color: yellow}
+  background-color: #ffff00}
   .a-block.sm {
     padding: 30px 30px; }
   @media (max-width: 767.98px) {
@@ -317,7 +317,7 @@ header {
   height: 50vh; }
 
 .site-section {
-  background-color: yellow;
+  background-color: #ffff00;
   padding: 7em 0; }
   .site-section.py-md {
     padding: 3em 0; }
@@ -538,17 +538,17 @@ textarea.form-control {
     border-width: 2px; }
     .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
       color: #b3b3b3;
-      border-color: yellow;
-      background: yellow; }
+      border-color: #ffff00;
+      background: #ffff00; }
   .btn.btn-sm {
     font-size: 14px;}
   .btn.btn-outline-primary {
     border-width: 2px;
-    color: yellow; }
+    color: #ffff00; }
     .btn.btn-outline-primary:hover, .btn.btn-outline-primary:focus, .btn.btn-outline-primary:active {
       color: #fff; }
   .btn.btn-outline-white {
-    
+
     color: #fff; }
     .btn.btn-outline-white:hover, .btn.btn-outline-white:focus {
       background: #fff;
@@ -1142,11 +1142,11 @@ textarea.form-control {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   font-size: 15px;
-  color: yellow; }
+  color: #ffff00; }
 
 .search-top input {
   color: #007bff;
-  background: yellow;
+  background: #ffff00;
   background: #007bff;
   width: inherit;
   min-width: 300px;
@@ -1171,7 +1171,7 @@ textarea.form-control {
       width: 150px;
       min-width: 150px; } }
   .search-top input:active, .search-top input:focus {
-    background: yellow;
+    background: #ffff00;
     outline: none; }
 
 .post-entry-sidebar .post-meta {
