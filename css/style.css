@@ -461,3 +461,12 @@ img.intext{
     width:80%;
   }
 }
+
+#four1{
+  position: fixed;
+  width:25%;
+  border: 10px solid #f1cb63;
+  transform: rotate(-30deg);
+}@media (max-width: 48em) {
+
+}
