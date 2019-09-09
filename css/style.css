@@ -108,7 +108,8 @@ body {
 }
 .zero-h1{
   position:absolute;
-  bottom:10%;
+  width: 80%;
+  bottom:6%;
   padding-left: 2rem;
 }@media (max-width: 48em) {
   .zero-h1{
